@@ -32,6 +32,7 @@
 - [Aditya](https://github.com/adityadwialfiant1595-commits)
 - [Bhumika pandey] (https://github.com/Bhumikapandey67)
 - [Pragya Solanki](https://github.com/solankipragya128)
+- [Yahya Hasan] (https://github.com/MicrosoftvsApple) - My first contribution. Hoping to do many more :)
 - [Aung Khine](https://github.com/aungkhineh)
 - [Diya Rojasara](https://github.com/Diya-Rojasara)
 - [Mahya Abbaszadeh](https://github.com/mahyaabbaszadeh)
@@ -62,6 +63,7 @@ Alliance Ngoy Muya
 - [Isaiah Adepegba](https://github.com/sensi012) - Hello! This is my first open source contribution.
 - [Ramim Miah](https://github.com/iramim) - My first open-source contribution!
 - [Himanshu Raj Giri](https://github.com/HimanshuRajGiri) - My first contribution!
+- [Ranjeet Kumar Gupta](https://github.com/ranjeetkumarguptabro-maker)
 - [Rushil Shah] (https://github.com/RShah033) - First open-source contribution!
 - [Hajra Khan] (https://github.com/hajraa21)- Hey.
 - [Cammy-83](https://github.com/cammy-83) - My first contribution!
@@ -135,6 +137,7 @@ David Dorian
 - Hello ! I am happy to make my first contribution 😭
 - contribution
 - [Hrushikesh sherikar](https://github.com/hrushikesh08) Hi! everybody from hrushikesh
+- [Shourya Sharma](https://github.com/shouryaind)
 - [Mira Derp](https://github.com/Mira-derp) - my first contribution
 - [Subham Saha](https://github.com/Subham19181) - Subham says hi to everyone!
 - [Harsh](https://github.com/Mr-KnightCLI)
@@ -3704,6 +3707,7 @@ Jim Bollinger
 - [Frederick Atisai](https://github.com/f-atisai)
 - [Anupama B R](https://github.com/Anupamabramesh)
 - [G KARTHIK GOUD](https://github.com/karthikgoud24)
+- - [Balamani15](https://github.com/Balamani15) 
 - [Kush Arora](https://github.com/kush7arora)
 - [Sokol Memedi](https://github.com/Smemedi)
 - [Tiffany Iong](https://github.com/tiffanyiong)
@@ -4529,6 +4533,7 @@ andrewcodess
 - [Faisal](https://github.com/FaisalXL)
 - [KrxnTech] (https://github.com/KrxnTech)
 - [sarthakhire](https://github.com/sarthakhire)
+- [H07-yl](https://github.com/H07-yl) - My first open source contribution!
 - [Kazuki Oka](https://github.com/kazuki-oka)
 - [Francesco Pirazzini](https://github.com/177Frenk)
 - [Francisco Lopes](https://github.com/Francisc0Lopes)
@@ -9059,3 +9064,5 @@ Ajay
 - [Nikki Ganji](https://github.com/nikkiganji) - My first open-source contribution!
 - [Rama Sudhamshu Kumar] (https://github.com/asterisk-69) MY FIRST OPEN SOURCE CONTRIII >_<
 - [Niharika Penugonda](https://github.com/Penugonda-Niharika) - My First Open Source Contribution
+- [Subham Kumar Keshari](https://github.com/kumar246subham-afk/my-portfolio-)
+- [Shrikrishna Dhebe](https://github.com/Shrikrishna-dhebe-12)
